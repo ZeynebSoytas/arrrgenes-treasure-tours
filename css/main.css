@@ -23,7 +23,6 @@ body {
   border-bottom: .3rem solid #bea59b;
   color: #fff;
   font-size: 1.25rem;
-  contrast: 65%;
 }
 
 .masthead h1 {
@@ -74,7 +73,7 @@ body {
 .banner div {
   grid-area: banner;
   align-self: center;
-  justify-self: center;
+  justify-content: center;
   padding: 2rem 0;
   max-width: 20em;
   text-align: center;
