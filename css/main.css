@@ -20,9 +20,10 @@ body {
   align-items: center;
   padding: 0 1rem;
   background-color: #522806;
-  border-bottom: .3rem solid #0000FF;
+  border-bottom: .3rem solid #bea59b;
   color: #fff;
   font-size: 1.25rem;
+  contrast: 65%;
 }
 
 .masthead h1 {
